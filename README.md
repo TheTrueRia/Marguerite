@@ -49,7 +49,7 @@ Ce projet vise à développer un collier connecté permettant le suivi en temps 
 **Mélodie sonore activable à distance**
 
 ---
-## 🤝 Contributeurs
+## Contributeurs
 - **MAYA** - Hackathon "CReATE an IoT Product for Good"
 - Anaîs de la Rivière - Ariane Maccou - Augustin Poisson
 
