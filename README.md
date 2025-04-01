@@ -39,7 +39,7 @@ Ce projet vise à développer un collier connecté permettant le suivi en temps 
 1. **Compiler & téléverser** le code sur l'ESP32
 2. Lancer l'application **Blynk** et observer les données en temps réel
 3. L'ESP32 envoie **température et humidité** toutes les 5 secondes
-4. Un **buzzer** se déclenche en cas de fièvre
+4. Un **buzzer** se déclenche à volonté
 
 ---
 ## Fonctionnalités
